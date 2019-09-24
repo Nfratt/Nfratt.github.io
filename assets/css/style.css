@@ -150,11 +150,13 @@ h3, h2 {
   overflow: auto;
   /* clear: both; */
   margin: 20px;
-
+  height: 250px;
 
 
 }
-
+#TrainScheduler{
+  margin-left: 20px
+}
 .work:nth-child(even) {
   margin-right: 40px;
 }
