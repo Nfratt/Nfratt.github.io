@@ -6,3 +6,7 @@ Clipart wiki https://www.clipartwiki.com
 link to portfolio site: https://nfratt.github.io/
 Nintendo/The pokemon company Pokemon gym bages 
 
+
+Things to add:
+contact links to linkedin
+

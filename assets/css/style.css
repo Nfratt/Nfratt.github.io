@@ -234,8 +234,8 @@ input[type=submit] {
     max-width: 960px;
     padding: 30px;
     margin: 0 0 40px;
-    background: #ffffff;
-    border: 1px solid #dddddd;
+    background: #555555;
+    border: 1px solid #555555;
     
   }
     img {width:25%;
