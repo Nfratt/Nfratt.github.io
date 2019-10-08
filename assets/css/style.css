@@ -223,10 +223,13 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
-#contactlinks{
+.social-icon{
   float: right;
-  color: #6D84EF;
-  
+  color: white;
+  width: 50px;
+  height: auto;
+  margin-right: 10px;
+  margin-top: 10px
 }
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 640px) {
