@@ -223,6 +223,11 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+#contactlinks{
+  float: right;
+  color: #6D84EF;
+  
+}
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 640px) {
   
@@ -247,6 +252,7 @@ input[type=submit] {
       padding-right: 10%;
       padding-left: 10%;
       width: 100%;
+      size: 90%;
       /* Positioning */
     
       /* Typography */
@@ -266,10 +272,11 @@ input[type=submit] {
       
       }
  
+      
   /* Medium devices (landscape tablets, 768px and up) */
   @media only screen and (min-width: 768px) {
     /* body {background: purple;} */
-   .container{width: 95%}
+   #container{width: 95%}
    nav {padding-right: 10%}
   
   }
