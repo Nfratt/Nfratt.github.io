@@ -11,5 +11,13 @@ Nintendo/The pokemon company Pokemon gym bages
 
 Things to add: proper bootstrap implimentation:
 (right now still using media queries )
-work on cover letter/ intro
+
 make sure email link is properly set
+favicon
+hovers
+animate css
+
+
+
+
+
