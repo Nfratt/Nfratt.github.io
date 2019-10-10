@@ -156,7 +156,7 @@ h3, h2 {
 
 .work img {
   width: 100%;
-  border: 0 none;
+ 
   opacity: 0.8;
 }
 
@@ -243,8 +243,10 @@ input[type=submit] {
     margin: 0 0 40px;
     background: #555555;
     border: 1px solid #555555;
-    
-  }
+    }
+    .work{
+      height: 10%;
+    }
     img {width:25%;
     height: 25%;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
