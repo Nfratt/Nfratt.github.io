@@ -9,6 +9,9 @@ Nintendo/The pokemon company Pokemon gym bages
 
 
 
+10/26/19 
+New update!!!
+linked to new Resume
 Things to add: proper bootstrap implimentation:
 (right now still using media queries )
 
@@ -17,6 +20,7 @@ favicon
 hovers
 animate css
 lightmode/darkmode
+make all links open in a new tab 
 
 
 
