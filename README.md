@@ -16,6 +16,7 @@ make sure email link is properly set
 favicon
 hovers
 animate css
+lightmode/darkmode
 
 
 
