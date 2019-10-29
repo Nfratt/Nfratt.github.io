@@ -18,7 +18,9 @@ Nintendo/The pokemon company Pokemon gym bages
 New update!!!
 
 linked to new Resume
-Things to add: proper bootstrap implimentation:
+
+Things to add: 
+proper bootstrap implimentation:
 (right now still using media queries )
 
 make sure email link is properly set
