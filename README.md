@@ -32,13 +32,18 @@ make all links open in a new tab
 
 12/10/19
 New update!!!
+
 animate css implimented started
+
 all links open in new tab 
+
 redesign for new background 
 
 
 12/15/19
+
 So very excited to have added the first iteration of a webscrapper to my portfolio
+
 Added new link to Wowhead Scrapper all information affiliated belongs to Wowhead and Blizzard Entertainment
 For instructional Use only!!! 
 
