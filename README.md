@@ -30,6 +30,11 @@ animate css
 lightmode/darkmode
 make all links open in a new tab 
 
+12/10/19
+New update!!!
+animate css implimented started
+all links open in new tab 
+redesign for new background 
 
 
 
