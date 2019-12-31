@@ -148,7 +148,7 @@ body {
     margin: 20px 0 25px;
     overflow: auto;
     margin: 20px;
-    height: 250px;
+    height: 300px;
   }
   
   
@@ -162,7 +162,7 @@ body {
     bottom: 20px;
     width: 100%;
     padding: 15px;
-    margin-bottom:20%;
+    margin-bottom:50%;
     font-weight: 300;
     line-height: 30px;
     color: #ffffff;
@@ -172,6 +172,7 @@ body {
     height: 60px;
     font-size: 95%;
   }
+
   
   .auth-image {
     float: left;
@@ -202,6 +203,7 @@ body {
     padding-right: 10%;
   }
   #desc{size:50%}
+
 
 
   
