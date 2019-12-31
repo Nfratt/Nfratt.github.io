@@ -194,12 +194,14 @@ body {
   .social-icon{
     float: right;
     color: white;
-    size: 200%;
+    size: 50%;
     margin-right: 10px;
     margin-top: 10px
   }
   #contactlinks{color: white;
-  ;}
+    padding-right: 10%;
+  }
+  #desc{size:50%}
 
 
   
