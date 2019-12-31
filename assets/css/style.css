@@ -139,15 +139,14 @@ body {
   }
   
   /* portfolio page */
+ 
   
   .work {
     position: relative;
     float: left;
     width: 200px;
-  
     margin: 20px 0 25px;
     overflow: auto;
-  
     margin: 20px;
     height: 250px;
   }
@@ -155,7 +154,6 @@ body {
   
   .work img {
     width: 100%;
-   
     opacity: 0.8;
   }
   
@@ -202,6 +200,8 @@ body {
   }
   #contactlinks{color: white;
   ;}
+
+
   
   /* Extra small devices (phones, 600px and down) */
   @media only screen and (max-width: 640px) {
