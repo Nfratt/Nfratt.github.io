@@ -33,7 +33,7 @@ make all links open in a new tab
 12/10/19
 New update!!!
 
-animate css implimented started
+animate css implimentation
 
 all links open in new tab 
 
