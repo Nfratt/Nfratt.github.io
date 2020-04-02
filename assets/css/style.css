@@ -94,12 +94,15 @@ body {
     color: #999;
     text-decoration: none;
     border-left: 1px solid #efefef;
+    overflow: hidden;
   }
   
   nav a:first-child {
     border-left: 0 none;
   }
-  
+  .icon{width:10%;
+    float: right;
+  height:auto}
   /* footer */
   
   footer {
@@ -261,8 +264,10 @@ body {
       #Backend{
     margin-top: 64%;
     margin-right: 10%;
-    
    }
+   .icon{width:10%;
+    float: right;
+  height:auto}
         
     /* Medium devices (landscape tablets, 768px and up) */
     @media only screen and (min-width: 768px) {
