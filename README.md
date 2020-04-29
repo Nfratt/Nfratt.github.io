@@ -47,9 +47,14 @@ So very excited to have added the first iteration of a webscrapper to my portfol
 Added new link to Wowhead Scrapper all information affiliated belongs to Wowhead and Blizzard Entertainment
 For instructional Use only!!! 
 
-1/27/19
+1/27/20
 
 Adding Gruber a Ecommerce site for on demand groceries Created in React
+
+3/25/2020
+
+Adding animate CSS to landing page
+
 
 
 
