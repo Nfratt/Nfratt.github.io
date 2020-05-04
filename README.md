@@ -54,6 +54,11 @@ Adding Gruber a Ecommerce site for on demand groceries Created in React
 3/25/2020
 
 Adding animate CSS to landing page
+5/4/2020
+
+Fixed bug that caused scroll bars to appear
+
+NEW!! cleaned up mobile interface
 
 
 
