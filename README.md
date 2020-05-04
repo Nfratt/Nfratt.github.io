@@ -44,7 +44,7 @@ redesign for new background
 
 So very excited to have added the first iteration of a webscrapper to my portfolio
 
-Added new link to Wowhead Scrapper all information affiliated belongs to Wowhead and Blizzard Entertainment
+Added new link to Wowhead Scraper all information affiliated belongs to Wowhead and Blizzard Entertainment
 For instructional Use only!!! 
 
 1/27/20
