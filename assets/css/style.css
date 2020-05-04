@@ -235,6 +235,10 @@ body {
       .work{
         height: 10%;
       }
+      #tag{position: relative;;
+
+      }
+      .descexp{clear: left;}
       img {width:25%;
       height: 25%;
       font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
