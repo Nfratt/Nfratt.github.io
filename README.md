@@ -44,7 +44,7 @@ redesign for new background
 
 So very excited to have added the first iteration of a webscrapper to my portfolio
 
-Added new link to Wowhead Scrapper all information affiliated belongs to Wowhead and Blizzard Entertainment
+Added new link to Wowhead Scraper all information affiliated belongs to Wowhead and Blizzard Entertainment
 For instructional Use only!!! 
 
 1/27/20
@@ -54,6 +54,11 @@ Adding Gruber a Ecommerce site for on demand groceries Created in React
 3/25/2020
 
 Adding animate CSS to landing page
+5/4/2020
+
+Fixed bug that caused scroll bars to appear
+
+NEW!! cleaned up mobile interface
 
 
 
